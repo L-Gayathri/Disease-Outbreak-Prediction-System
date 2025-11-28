@@ -6,7 +6,7 @@ Created on Sun Jun  8 15:08:30 2025
 def factorial(n):
     result = 1
     for i in range(1, n + 1):
-        result *= 
+        result *
 
 import os
 import pickle
@@ -217,6 +217,7 @@ padding: 25px;
 }
     </style>
 """, unsafe_allow_html=True)
+
 
 
 
