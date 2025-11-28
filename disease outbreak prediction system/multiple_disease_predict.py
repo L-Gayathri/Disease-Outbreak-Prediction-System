@@ -9,7 +9,7 @@ def factorial(n):
         result *= i
     return result
 
-print(fac
+print(fa
 
 
 
@@ -223,6 +223,7 @@ padding: 25px;
 }
     </style>
 """, unsafe_allow_html=True)
+
 
 
 
