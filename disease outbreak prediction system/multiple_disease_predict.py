@@ -3,6 +3,8 @@
 Created on Sun Jun  8 15:08:30 2025
 @author: lakka
 """
+
+print("hello")
 import os
 import pickle
 import streamlit as st
@@ -212,3 +214,4 @@ padding: 25px;
 }
     </style>
 """, unsafe_allow_html=True)
+
