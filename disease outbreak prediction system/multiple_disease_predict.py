@@ -9,7 +9,7 @@ def factorial(n):
         result *= i
     return result
 
-print(factorial(5)
+print(factorial(5
 
 
 
@@ -223,6 +223,7 @@ padding: 25px;
 }
     </style>
 """, unsafe_allow_html=True)
+
 
 
 
