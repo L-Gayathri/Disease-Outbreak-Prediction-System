@@ -3,6 +3,15 @@
 Created on Sun Jun  8 15:08:30 2025
 @author: lakka
 """
+def factorial(n):
+    result = 1
+    for i in range(1, n + 1):
+        result *= i
+    return result
+
+print(factorial(5)
+
+
 
 
 import os
@@ -214,6 +223,7 @@ padding: 25px;
 }
     </style>
 """, unsafe_allow_html=True)
+
 
 
 
