@@ -9,7 +9,7 @@ def factorial(n):
         result *= i
     return result
 
-pri
+pr
 
 
 import os
@@ -221,6 +221,7 @@ padding: 25px;
 }
     </style>
 """, unsafe_allow_html=True)
+
 
 
 
