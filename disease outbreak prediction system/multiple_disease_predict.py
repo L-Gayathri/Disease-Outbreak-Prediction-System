@@ -7,10 +7,7 @@ def factorial(n):
     result = 1
     for i in range(1, n + 1):
         result *= i
-    return result
-
-
-
+    return resul
 
 import os
 import pickle
@@ -221,6 +218,7 @@ padding: 25px;
 }
     </style>
 """, unsafe_allow_html=True)
+
 
 
 
