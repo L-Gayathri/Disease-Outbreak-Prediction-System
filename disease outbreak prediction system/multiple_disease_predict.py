@@ -1,10 +1,10 @@
-# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*
 """
 Created on Sun Jun  8 15:08:30 2025
 @author: lakka
 """
 
-print(
+print
 import os
 import pickle
 import streamlit as st
@@ -214,6 +214,7 @@ padding: 25px;
 }
     </style>
 """, unsafe_allow_html=True)
+
 
 
 
